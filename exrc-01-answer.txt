@@ -1,0 +1,9 @@
+answer to Exercise 01.
+
+
+relative_humidity= 	81.847920
+temperature_average= 	2.740029
+wind_speed= 		3.900717
+precipitation_amount= 	0.000000 
+pressure_verage= 	1012.634146
+
